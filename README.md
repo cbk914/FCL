@@ -1,5 +1,5 @@
 # FCL - Fileless Command Lines
-Known command-lines of fileless malicious executions.
+Known command-lines of fileless malicious executions. 
 
 ## Motivation
 
@@ -21,9 +21,15 @@ Each FCL file contains\may contain the following data:
 ## Contributions
 If you have any malicious related command line (deobfuscated or not), sandbox links, technical write-up, regular expression or any useful suggestion, please share it with me and I will update this repository accordingly.
 
+## References
+Here are some great references elaborating on fileless malicious executions and the use of it through time:
+* https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats
+* https://blog.malwarebytes.com/threat-analysis/2018/08/fileless-malware-getting-the-lowdown-on-this-insidious-threat/
+* https://zeltser.com/fileless-malware-beyond-buzzword/
+
 
 ## GPL 3
-FCL - Fileless Command Lines Copyright (C) 2018, Chen Erlich.
+FCL - Fileless Command Lines Copyright (C) 2018, Chen Erlich ([@chen_erlich](https://twitter.com/chen_erlich)).
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -35,4 +41,3 @@ You should have received a copy of the GNU General Public License along with thi
 ## TODO
 - [ ] Add more fileless malwares
 - [ ] Sharp\add regular expressions
-
